@@ -1,0 +1,32 @@
+{
+  "posts": [
+    {
+      "fname": "harsh",
+      "userName": "hasrh2003",
+      "userEmail": "harsh@122",
+      "userPass": "12345678",
+      "id": "b60c"
+    },
+    {
+      "id": "b380",
+      "fname": " jayas",
+      "userName": "Jayas123",
+      "userEmail": "jayas@123",
+      "userPass": "1234"
+    },
+    {
+      "id": "15c8",
+      "fname": "yatish",
+      "userName": "yatish2003",
+      "userEmail": "yat@122",
+      "userPass": "yatish"
+    },
+    {
+      "fname": "AAksh",
+      "userName": "AAku123",
+      "userEmail": "aakash@gmail.com",
+      "userPass": "123456789",
+      "id": "5c1d"
+    }
+  ]
+}

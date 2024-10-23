@@ -1,0 +1,36 @@
+.card{
+    width: 100%;
+    height: 100vh;
+    /* background-color: aqua; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.section{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 100vh;
+    /* background-color: brown; */
+    flex-wrap: wrap;
+}
+.card-cnt{
+    width: 270px;
+    height: 250px;
+    border: 2px solid black;
+    margin: 5px;
+    border-radius: 10px;
+    background-color: rgb(237, 230, 221);
+    padding:5px ;
+}
+
+.card-cnt:hover{
+    box-shadow: 3px 3px 3px rgb(67, 67, 67);
+    
+}
+button{
+    width: 100px;
+    border-radius: 10px;
+    margin: 5px;
+}
